@@ -1,0 +1,16 @@
+{
+  "name": "bk-graph",
+  "version": "1.0.0",
+  "description": "Display mood changes during a Baratok Kozt episode based on the number of smileys",
+  "main": "index.js",
+  "author": "Bodnar Istvan",
+  "devDependencies": {
+    "blessed": "0.0.37",
+    "blessed-contrib": "0.0.3",
+    "line-reader": "^0.2.4"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "http://github.com/bodnaristvan/bk-graph"
+  }
+}
